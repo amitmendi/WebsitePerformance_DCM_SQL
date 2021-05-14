@@ -1,4 +1,5 @@
 **WebsitePerformance_DCM_SQL**
+
 Google BigQuery SQL on DCM data
 
 The purpose of this project was to understand how users that come from advertising channels interact with the website - leveraging DCM data. 
